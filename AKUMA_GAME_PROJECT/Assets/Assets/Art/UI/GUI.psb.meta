@@ -25,6 +25,7 @@ ScriptedImporter:
     streamingMipmaps: 1
     streamingMipmapsPriority: 0
     vTOnly: 0
+    ignoreMasterTextureLimit: 0
     nPOTScale: 1
     sRGBTexture: 1
     spriteMode: 2
@@ -46,6 +47,7 @@ ScriptedImporter:
     flipbookRows: 0
     flipbookColumns: 0
     ignorePngGamma: 0
+    cookieMode: 0
     filterMode: 1
     aniso: 1
     mipBias: 0
@@ -79,7 +81,6 @@ ScriptedImporter:
       width: 0
       height: 0
     spriteID: 
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -89,6 +90,7 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
   - name: Vector Smart Object
@@ -103,7 +105,6 @@ ScriptedImporter:
       width: 83
       height: 79
     spriteID: 31f8832cf50ec4fa481d001bd5f0891d
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -112,7 +113,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1180, y: 595}
+    uvTransform: {x: 4006, y: 1177}
+    spritePosition: {x: 2826, y: 582}
   - name: Vector Smart Object_1
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -125,7 +127,6 @@ ScriptedImporter:
       width: 38
       height: 72
     spriteID: 63a457b97ec0b49e4bfa19badc96c35b
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -134,7 +135,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1298, y: 868}
+    uvTransform: {x: 4048, y: 1451}
+    spritePosition: {x: 2750, y: 583}
   - name: Vector Smart Object_2
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -147,7 +149,6 @@ ScriptedImporter:
       width: 66
       height: 72
     spriteID: 6d5d4fcab021449df9bccb038b3b1cc9
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -156,7 +157,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1371, y: -145}
+    uvTransform: {x: 4026, y: 438}
+    spritePosition: {x: 2655, y: 583}
   - name: Vector Smart Object_3
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -169,7 +171,6 @@ ScriptedImporter:
       width: 87
       height: 53
     spriteID: 6c5c3e8f8b3174e8d80712e070908412
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -178,7 +179,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -1500, y: 2071}
+    uvTransform: {x: 399, y: 2635}
+    spritePosition: {x: 1899, y: 564}
   - name: Vector Smart Object_4
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -191,7 +193,6 @@ ScriptedImporter:
       width: 61
       height: 69
     spriteID: 7cdf7b1513ca949e3b612b5dce0c83b7
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -200,7 +201,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1395, y: 1430}
+    uvTransform: {x: 3954, y: 2016}
+    spritePosition: {x: 2559, y: 586}
   - name: Vector Smart Object_5
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -213,7 +215,6 @@ ScriptedImporter:
       width: 69
       height: 71
     spriteID: 27d45d2ff439641299ba82d22a1d5ef1
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -222,7 +223,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1492, y: 1179}
+    uvTransform: {x: 3954, y: 1770}
+    spritePosition: {x: 2462, y: 591}
   - name: Vector Smart Object_6
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -235,7 +237,6 @@ ScriptedImporter:
       width: 73
       height: 69
     spriteID: 6b65119c18dd347c1bcc25f9ff7454ff
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -244,7 +245,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1592, y: 1107}
+    uvTransform: {x: 3954, y: 1693}
+    spritePosition: {x: 2362, y: 586}
   - name: Vector Smart Object_7
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -257,7 +259,6 @@ ScriptedImporter:
       width: 61
       height: 71
     spriteID: ef7ba1eba943642d5beda1790c502284
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -266,7 +267,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1682, y: 1353}
+    uvTransform: {x: 3954, y: 1937}
+    spritePosition: {x: 2272, y: 584}
   - name: Vector Smart Object_8
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -279,7 +281,6 @@ ScriptedImporter:
       width: 59
       height: 80
     spriteID: 2d8f3bc1b369143d7896f675f1847b49
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -288,7 +289,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 2250, y: 1259}
+    uvTransform: {x: 3954, y: 1849}
+    spritePosition: {x: 1704, y: 590}
   - name: Vector Smart Object_9
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -301,7 +303,6 @@ ScriptedImporter:
       width: 73
       height: 59
     spriteID: 18b1cbe54437c46b5b556a42f2439787
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -310,7 +311,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -1553, y: 2045}
+    uvTransform: {x: 589, y: 2635}
+    spritePosition: {x: 2142, y: 590}
   - name: Vector Smart Object_10
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -323,7 +325,6 @@ ScriptedImporter:
       width: 86
       height: 73
     spriteID: c724ee17e331e49568190cfc8efd589d
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -332,7 +333,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1935, y: 862}
+    uvTransform: {x: 3954, y: 1451}
+    spritePosition: {x: 2019, y: 589}
   - name: Vector Smart Object_11
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -345,7 +347,6 @@ ScriptedImporter:
       width: 87
       height: 53
     spriteID: ac0adddf9caad4c91987879287d3a32e
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -354,7 +355,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -1299, y: 2039}
+    uvTransform: {x: 494, y: 2635}
+    spritePosition: {x: 1793, y: 596}
   - name: Vector Smart Object_12
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -367,7 +369,6 @@ ScriptedImporter:
       width: 77
       height: 80
     spriteID: da9662aaede514a2d9e51e0f643686d4
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -376,7 +377,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 2419, y: 1879}
+    uvTransform: {x: 4010, y: 2468}
+    spritePosition: {x: 1591, y: 589}
   - name: Vector Smart Object_13
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -389,7 +391,6 @@ ScriptedImporter:
       width: 71
       height: 71
     spriteID: 240feb34d08ed44a7b5183b1c80a54b4
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -398,7 +399,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 2478, y: 1024}
+    uvTransform: {x: 3954, y: 1614}
+    spritePosition: {x: 1476, y: 590}
   - name: Vector Smart Object_14
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -411,7 +413,6 @@ ScriptedImporter:
       width: 72
       height: 74
     spriteID: dfc7af84447ae4e3d9ade556168ab96c
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -420,7 +421,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 2647, y: -586}
+    uvTransform: {x: 4016, y: 4}
+    spritePosition: {x: 1369, y: 590}
   - name: Vector Smart Object_15
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -433,7 +435,6 @@ ScriptedImporter:
       width: 83
       height: 74
     spriteID: 69d97755b700c4a9dbdbe5ad005bb928
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -442,7 +443,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 2699, y: 942}
+    uvTransform: {x: 3954, y: 1532}
+    spritePosition: {x: 1255, y: 590}
   - name: Vector Smart Object_16
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -455,7 +457,6 @@ ScriptedImporter:
       width: 85
       height: 90
     spriteID: 1232b6b431cad41c7b85b7b321e6cc19
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -464,7 +465,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 2219, y: 1432}
+    uvTransform: {x: 3852, y: 1747}
+    spritePosition: {x: 1633, y: 315}
   - name: Vector Smart Object_17
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -477,7 +479,6 @@ ScriptedImporter:
       width: 86
       height: 85
     spriteID: 11975af219a854b5ca96a92d44ff16c0
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -486,7 +487,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1961, y: 1042}
+    uvTransform: {x: 3954, y: 1358}
+    spritePosition: {x: 1993, y: 316}
   - name: Vector Smart Object_18
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -499,7 +501,6 @@ ScriptedImporter:
       width: 85
       height: 90
     spriteID: b5b8772970b134b87ad59d869726d211
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -508,7 +509,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1988, y: 1535}
+    uvTransform: {x: 3852, y: 1845}
+    spritePosition: {x: 1864, y: 310}
   - name: Vector Smart Object_19
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -521,7 +523,6 @@ ScriptedImporter:
       width: 89
       height: 88
     spriteID: a811da6d33ec44fd2b9223f2a56ff46b
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -530,7 +531,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 2107, y: 1240}
+    uvTransform: {x: 3852, y: 1556}
+    spritePosition: {x: 1745, y: 316}
   - name: Vector Smart Object_20
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -543,7 +545,6 @@ ScriptedImporter:
       width: 94
       height: 80
     spriteID: 5074962e8f30d4c6eb3939639217ae42
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -552,7 +553,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1037, y: 1612}
+    uvTransform: {x: 3852, y: 2038}
+    spritePosition: {x: 2815, y: 426}
   - name: Vector Smart Object_21
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -565,7 +567,6 @@ ScriptedImporter:
       width: 94
       height: 92
     spriteID: 6af33a88269bb42b2a0114b756b59dc7
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -574,7 +575,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1280, y: 629}
+    uvTransform: {x: 3977, y: 1052}
+    spritePosition: {x: 2697, y: 423}
   - name: Vector Smart Object_22
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -587,7 +589,6 @@ ScriptedImporter:
       width: 87
       height: 87
     spriteID: de8f35df89f3a4b7c95534f57570245e
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -596,7 +597,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1264, y: 1520}
+    uvTransform: {x: 3852, y: 1943}
+    spritePosition: {x: 2588, y: 423}
   - name: Vector Smart Object_23
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -609,7 +611,6 @@ ScriptedImporter:
       width: 91
       height: 81
     spriteID: 8c40186be26b94d919901bd1c7c3908b
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -618,7 +619,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1484, y: 844}
+    uvTransform: {x: 3954, y: 1269}
+    spritePosition: {x: 2470, y: 425}
   - name: Vector Smart Object_24
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -631,7 +633,6 @@ ScriptedImporter:
       width: 89
       height: 87
     spriteID: b84132e8285524a13b23dadb8cfd6bd1
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -640,7 +641,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1496, y: 1229}
+    uvTransform: {x: 3852, y: 1652}
+    spritePosition: {x: 2356, y: 423}
   - name: Vector Smart Object_25
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -653,7 +655,6 @@ ScriptedImporter:
       width: 94
       height: 85
     spriteID: 0a0cb79dbb0914895b1338bf617b5d91
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -662,7 +663,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1629, y: 1040}
+    uvTransform: {x: 3852, y: 1463}
+    spritePosition: {x: 2223, y: 423}
   - name: Vector Smart Object_26
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -675,7 +677,6 @@ ScriptedImporter:
       width: 89
       height: 91
     spriteID: 5b642a7dd4f5747969c42a27f26ec106
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -684,7 +685,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1746, y: 941}
+    uvTransform: {x: 3852, y: 1364}
+    spritePosition: {x: 2106, y: 423}
   - name: Vector Smart Object_27
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -697,7 +699,6 @@ ScriptedImporter:
       width: 90
       height: 92
     spriteID: 449bc1fe81f1c40509d69f207e18ac1e
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -706,7 +707,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1994, y: 119}
+    uvTransform: {x: 3982, y: 540}
+    spritePosition: {x: 1988, y: 421}
   - name: Vector Smart Object_28
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -719,7 +721,6 @@ ScriptedImporter:
       width: 93
       height: 92
     spriteID: 46bac74c6c0904b94a1f2449f754135f
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -728,7 +729,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 2119, y: 247}
+    uvTransform: {x: 3981, y: 669}
+    spritePosition: {x: 1862, y: 422}
   - name: Vector Smart Object_29
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -741,7 +743,6 @@ ScriptedImporter:
       width: 91
       height: 90
     spriteID: 4e14a3a774d394834a426d7f1f3c40d0
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -750,7 +751,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 2236, y: 375}
+    uvTransform: {x: 3980, y: 797}
+    spritePosition: {x: 1744, y: 422}
   - name: Vector Smart Object_30
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -763,7 +765,6 @@ ScriptedImporter:
       width: 94
       height: 87
     spriteID: 322fb343243d042d6989c3c76e18396d
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -772,7 +773,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 2225, y: 844}
+    uvTransform: {x: 3852, y: 1269}
+    spritePosition: {x: 1627, y: 425}
   - name: Vector Smart Object_31
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -785,7 +787,6 @@ ScriptedImporter:
       width: 90
       height: 90
     spriteID: 947a4258717304f869ec13136facc68a
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -794,7 +795,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 2504, y: -255}
+    uvTransform: {x: 4000, y: 166}
+    spritePosition: {x: 1496, y: 421}
   - name: Vector Smart Object_32
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -807,7 +809,6 @@ ScriptedImporter:
       width: 381
       height: 125
     spriteID: 96aad027c14be45018bf1b29ec6a8a3d
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -816,7 +817,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 3152, y: 1060}
+    uvTransform: {x: 3204, y: 2468}
+    spritePosition: {x: 52, y: 1408}
   - name: Vector Smart Object_33
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -829,7 +831,6 @@ ScriptedImporter:
       width: 384
       height: 125
     spriteID: 32cf2985bc26446e1b98b32b84488a29
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -838,7 +839,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 2761, y: 1239}
+    uvTransform: {x: 2812, y: 2468}
+    spritePosition: {x: 51, y: 1229}
   - name: Vector Smart Object_34
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -851,7 +853,6 @@ ScriptedImporter:
       width: 401
       height: 141
     spriteID: c7f8aaab8f5e8403d9e7371dc3cd7369
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -860,7 +861,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -251, y: 1718}
+    uvTransform: {x: 3132, y: 2172}
+    spritePosition: {x: 3383, y: 454}
   - name: Vector Smart Object_35
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -873,7 +875,6 @@ ScriptedImporter:
       width: 117
       height: 117
     spriteID: 39139f6a2bae942379530b00f08ab73c
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -882,7 +883,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 595, y: 882}
+    uvTransform: {x: 3852, y: 1052}
+    spritePosition: {x: 3257, y: 170}
   - name: Vector Smart Object_36
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -895,7 +897,6 @@ ScriptedImporter:
       width: 120
       height: 119
     spriteID: 71a18698c019847dd881f1a307cf925f
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -904,7 +905,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 749, y: 753}
+    uvTransform: {x: 3852, y: 925}
+    spritePosition: {x: 3103, y: 172}
   - name: Vector Smart Object_37
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -917,7 +919,6 @@ ScriptedImporter:
       width: 122
       height: 121
     spriteID: d606e3d2f97e8483798ed5cd3728ddf0
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -926,7 +927,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 919, y: 373}
+    uvTransform: {x: 3852, y: 540}
+    spritePosition: {x: 2933, y: 167}
   - name: Vector Smart Object_38
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -939,7 +941,6 @@ ScriptedImporter:
       width: 120
       height: 120
     spriteID: 369ab13131afc4524b1648595b218968
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -948,7 +949,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1094, y: 628}
+    uvTransform: {x: 3852, y: 797}
+    spritePosition: {x: 2758, y: 169}
   - name: Vector Smart Object_39
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -961,7 +963,6 @@ ScriptedImporter:
       width: 121
       height: 120
     spriteID: d472771bfd9734cc9a409e8383117fa3
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -970,7 +971,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1276, y: 497}
+    uvTransform: {x: 3852, y: 669}
+    spritePosition: {x: 2576, y: 172}
   - name: Vector Smart Object_40
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -983,7 +985,6 @@ ScriptedImporter:
       width: 127
       height: 127
     spriteID: 93fe228e521a741818cc26da7ea44c8a
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -992,7 +993,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1458, y: 136}
+    uvTransform: {x: 3852, y: 303}
+    spritePosition: {x: 2394, y: 167}
   - name: Vector Smart Object_41
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1005,7 +1007,6 @@ ScriptedImporter:
       width: 130
       height: 136
     spriteID: 6073e519553804f49a17be5af3715f6a
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1014,7 +1015,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1754, y: 2159}
+    uvTransform: {x: 3955, y: 2321}
+    spritePosition: {x: 2201, y: 162}
   - name: Vector Smart Object_42
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1027,7 +1029,6 @@ ScriptedImporter:
       width: 406
       height: 124
     spriteID: 4375bc250431a46299af1a831f9038b1
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1036,7 +1037,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 167, y: 1549}
+    uvTransform: {x: 3541, y: 2321}
+    spritePosition: {x: 3374, y: 772}
   - name: Vector Smart Object_43
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1049,7 +1051,6 @@ ScriptedImporter:
       width: 409
       height: 115
     spriteID: 1a4dd51ec18a547ad982f58b246e6f36
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1058,7 +1059,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 628, y: 2121}
+    uvTransform: {x: 3593, y: 2468}
+    spritePosition: {x: 2965, y: 347}
   - name: Triangle Down
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1071,7 +1073,6 @@ ScriptedImporter:
       width: 140
       height: 133
     spriteID: 25abab3e0a1624b11acc88cc638353ba
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1080,7 +1081,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1860, y: 1387}
+    uvTransform: {x: 3942, y: 2172}
+    spritePosition: {x: 2082, y: 785}
   - name: Vector Smart Object_44
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1093,7 +1095,6 @@ ScriptedImporter:
       width: 172
       height: 157
     spriteID: b0dc44bb483e947f98acf0cbb4ed9e30
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1102,7 +1103,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -397, y: 1538}
+    uvTransform: {x: 1984, y: 2299}
+    spritePosition: {x: 2381, y: 761}
   - name: Vector Smart Object_45
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1115,7 +1117,6 @@ ScriptedImporter:
       width: 734
       height: 119
     spriteID: 508beb7b4dc4d463dacdc89859301205
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1124,7 +1125,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -1361, y: 471}
+    uvTransform: {x: 1589, y: 2172}
+    spritePosition: {x: 2950, y: 1701}
   - name: Vector Smart Object_46
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1137,7 +1139,6 @@ ScriptedImporter:
       width: 381
       height: 109
     spriteID: 4dea7c98b728a483e94ac6a32ac6d0cf
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1146,7 +1147,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -1063, y: 1414}
+    uvTransform: {x: 2331, y: 2342}
+    spritePosition: {x: 3394, y: 928}
   - name: Vector Smart Object_47
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1159,7 +1161,6 @@ ScriptedImporter:
       width: 407
       height: 119
     spriteID: 533183e4f9a35452bbbf86998a3cf273
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1168,7 +1169,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -952, y: 904}
+    uvTransform: {x: 1998, y: 2468}
+    spritePosition: {x: 2950, y: 1564}
   - name: Vector Smart Object copy
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1181,7 +1183,6 @@ ScriptedImporter:
       width: 390
       height: 127
     spriteID: 53a82eb21a224404689ebb0efdefa018
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1190,7 +1191,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 356, y: 1596}
+    uvTransform: {x: 404, y: 2468}
+    spritePosition: {x: 48, y: 872}
   - name: Vector Smart Object_48
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1203,7 +1205,6 @@ ScriptedImporter:
       width: 389
       height: 135
     spriteID: ffd7412d6dbf745eeb83089072d28247
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1212,7 +1213,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -256, y: 923}
+    uvTransform: {x: 3132, y: 2321}
+    spritePosition: {x: 3388, y: 1398}
   - name: Vector Smart Object_49
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1225,7 +1227,6 @@ ScriptedImporter:
       width: 391
       height: 123
     spriteID: 6f3bef425463041b6a26f1f84b501972
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1234,7 +1235,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -976, y: 1851}
+    uvTransform: {x: 2413, y: 2468}
+    spritePosition: {x: 3389, y: 617}
   - name: Vector Smart Object_50
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1247,7 +1249,6 @@ ScriptedImporter:
       width: 387
       height: 119
     spriteID: 19beacce0bf0e41409c4aebed5bf3318
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1256,7 +1257,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -45, y: 1014}
+    uvTransform: {x: 4, y: 2603}
+    spritePosition: {x: 49, y: 1589}
   - name: Vector Smart Object_51
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1269,7 +1271,6 @@ ScriptedImporter:
       width: 392
       height: 125
     spriteID: ee2f186834bc04698b62434176ceb031
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1278,7 +1279,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -2194, y: 1399}
+    uvTransform: {x: 1198, y: 2468}
+    spritePosition: {x: 3392, y: 1069}
   - name: Vector Smart Object_52
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1291,7 +1293,6 @@ ScriptedImporter:
       width: 388
       height: 127
     spriteID: 2c4ac576cae0e4efc9ce29b13550d586
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1300,7 +1301,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 753, y: 1418}
+    uvTransform: {x: 802, y: 2468}
+    spritePosition: {x: 49, y: 1050}
   - name: Vector Smart Object_53
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1313,7 +1315,6 @@ ScriptedImporter:
       width: 387
       height: 157
     spriteID: f23556e4fd6374fd88067984daad79ea
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1322,7 +1323,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -1800, y: 1087}
+    uvTransform: {x: 1589, y: 2299}
+    spritePosition: {x: 3389, y: 1212}
   - name: Vector Smart Object_54
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1335,7 +1337,6 @@ ScriptedImporter:
       width: 392
       height: 125
     spriteID: 6dcd8ec0b123f47d18e9df2f69ccd5f5
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1344,7 +1345,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -1366, y: 1228}
+    uvTransform: {x: 1598, y: 2468}
+    spritePosition: {x: 2964, y: 1240}
   - name: Vector Smart Object_55
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1357,7 +1359,6 @@ ScriptedImporter:
       width: 392
       height: 162
     spriteID: e401db5f46fe342bc903676674ac4c61
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1366,7 +1367,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -634, y: 788}
+    uvTransform: {x: 2331, y: 2172}
+    spritePosition: {x: 2965, y: 1384}
   - name: Vector Smart Object_56
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1379,7 +1381,6 @@ ScriptedImporter:
       width: 393
       height: 146
     spriteID: a39245b3e05684ea2808c70ecd9c5b9b
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1388,7 +1389,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -233, y: 1390}
+    uvTransform: {x: 2731, y: 2172}
+    spritePosition: {x: 2964, y: 782}
   - name: Vector Smart Object_57
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1401,7 +1403,6 @@ ScriptedImporter:
       width: 392
       height: 131
     spriteID: 6d55b4ff22fa04ae7b5b69db950f7898
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1410,7 +1411,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -234, y: 1380}
+    uvTransform: {x: 2731, y: 2326}
+    spritePosition: {x: 2965, y: 946}
   - name: Vector Smart Object_58
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1423,7 +1425,6 @@ ScriptedImporter:
       width: 393
       height: 141
     spriteID: 14cef745de7404ce29f8fd99906e296d
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1432,7 +1433,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 567, y: 1564}
+    uvTransform: {x: 3541, y: 2172}
+    spritePosition: {x: 2974, y: 608}
   - name: Vector Smart Object_59
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1445,7 +1447,6 @@ ScriptedImporter:
       width: 392
       height: 127
     spriteID: 196756e4fd0b24e21a7a38698e5de5c6
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1454,7 +1455,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -2961, y: 1373}
+    uvTransform: {x: 4, y: 2468}
+    spritePosition: {x: 2965, y: 1095}
   - name: PauseButton
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1467,7 +1469,6 @@ ScriptedImporter:
       width: 103
       height: 103
     spriteID: fce5e9892d9f6415db41c0704e72dd88
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1476,7 +1477,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 423, y: 760}
+    uvTransform: {x: 3980, y: 925}
+    spritePosition: {x: 3557, y: 165}
   - name: IconHeart
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1489,7 +1491,6 @@ ScriptedImporter:
       width: 75
       height: 69
     spriteID: d3208616530ed4ae293ee9885f47da83
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1498,7 +1499,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 3811, y: -1825}
+    uvTransform: {x: 4016, y: 86}
+    spritePosition: {x: 205, y: 1911}
   - name: RoundedRectangle
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1511,7 +1513,6 @@ ScriptedImporter:
       width: 711
       height: 24
     spriteID: 3c28556439a5b4337b4d7f8126873959
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1520,7 +1521,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 81, y: 670}
+    uvTransform: {x: 397, y: 2602}
+    spritePosition: {x: 316, y: 1932}
   - name: IconCoin
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1533,7 +1535,6 @@ ScriptedImporter:
       width: 54
       height: 54
     spriteID: 345c7eb37c40f49fb8816214a02c0e5f
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1542,7 +1543,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 3820, y: -109}
+    uvTransform: {x: 4035, y: 1693}
+    spritePosition: {x: 215, y: 1802}
   - name: IconKey
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1555,7 +1557,6 @@ ScriptedImporter:
       width: 156
       height: 154
     spriteID: 4287dd03959e847c1bf05b4f2edf6d24
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1564,7 +1565,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -1344, y: 429}
+    uvTransform: {x: 2164, y: 2299}
+    spritePosition: {x: 3508, y: 1870}
   - name: Triangle
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1577,7 +1579,6 @@ ScriptedImporter:
       width: 146
       height: 84
     spriteID: 83384d2f999ca42ac960160bc20ed1ee
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1586,7 +1587,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 2005, y: 343}
+    uvTransform: {x: 3852, y: 1177}
+    spritePosition: {x: 1847, y: 834}
   - name: Fader
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1599,7 +1601,6 @@ ScriptedImporter:
       width: 637
       height: 269
     spriteID: 558031646795e4a11ac636a6fd2285fa
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1608,7 +1609,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 477, y: 1632}
+    uvTransform: {x: 944, y: 2172}
+    spritePosition: {x: 467, y: 540}
   - name: IconE
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1621,7 +1623,6 @@ ScriptedImporter:
       width: 140
       height: 129
     spriteID: b0afa22360d164f92944aa6d3b72a85b
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1630,7 +1631,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1770, y: -805}
+    uvTransform: {x: 3852, y: 166}
+    spritePosition: {x: 2082, y: 971}
   - name: IconE_1
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1643,7 +1645,6 @@ ScriptedImporter:
       width: 97
       height: 117
     spriteID: f554ebdb5d34748a38190828b9032fe0
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1652,7 +1653,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 2116, y: -668}
+    uvTransform: {x: 3987, y: 303}
+    spritePosition: {x: 1871, y: 971}
   - name: IconBlank
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1665,7 +1667,6 @@ ScriptedImporter:
       width: 156
       height: 154
     spriteID: b84a550951d6841e5b267d1a242f6309
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1674,7 +1675,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 517, y: -1866}
+    uvTransform: {x: 3852, y: 4}
+    spritePosition: {x: 3335, y: 1870}
   - name: Controls
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1687,7 +1689,6 @@ ScriptedImporter:
       width: 932
       height: 288
     spriteID: 1dd10efab2e9d43c291f2fbb5e0f3eab
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1696,7 +1697,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -204, y: 1998}
+    uvTransform: {x: 4, y: 2172}
+    spritePosition: {x: 208, y: 174}
   - name: BGReference
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1709,7 +1711,6 @@ ScriptedImporter:
       width: 3840
       height: 2160
     spriteID: 4d8c0416bf0734837b53c7527f3515e0
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1719,6 +1720,7 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 0}
   - name: PauseOverlay
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1731,7 +1733,6 @@ ScriptedImporter:
       width: 166
       height: 94
     spriteID: 4445cec380e0d4e99a354a1fae7e2e0b
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1741,23 +1742,35 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 3852, y: 438}
+    spritePosition: {x: 0, y: 0}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
   platformSettings: []
   mosaicLayers: 1
+  characterMode: 1
   documentPivot: {x: 0, y: 0}
   documentAlignment: 7
   importHiddenLayers: 0
-  importedTextureWidth: 2048
-  importedTextureHeight: 2048
-  documentSize: {x: 3840, y: 2160}
+  layerMappingOption: 2
+  generatePhysicsShape: 0
   paperDollMode: 0
   keepDupilcateSpriteName: 0
+  skeletonAssetReferenceID: 
   spriteCategoryList:
     categories: []
-  textureActualWidth: 4096
-  textureActualHeight: 4096
   spritePackingTag: 
   resliceFromLayer: 0
-  characterMode: 1
   mosaicPSDLayers: []
   rigPSDLayers:
   - name: Vector Smart Object
@@ -1767,6 +1780,9 @@ ScriptedImporter:
     spriteID: 31f8832cf50ec4fa481d001bd5f0891d
     layerID: 318
     mosaicPosition: {x: 4006, y: 1177}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_1
     isGroup: 0
@@ -1774,6 +1790,9 @@ ScriptedImporter:
     spriteID: 63a457b97ec0b49e4bfa19badc96c35b
     layerID: 317
     mosaicPosition: {x: 4048, y: 1451}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_2
     isGroup: 0
@@ -1781,6 +1800,9 @@ ScriptedImporter:
     spriteID: 6d5d4fcab021449df9bccb038b3b1cc9
     layerID: 316
     mosaicPosition: {x: 4026, y: 438}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_3
     isGroup: 0
@@ -1788,6 +1810,9 @@ ScriptedImporter:
     spriteID: 6c5c3e8f8b3174e8d80712e070908412
     layerID: 315
     mosaicPosition: {x: 399, y: 2635}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_4
     isGroup: 0
@@ -1795,6 +1820,9 @@ ScriptedImporter:
     spriteID: 7cdf7b1513ca949e3b612b5dce0c83b7
     layerID: 314
     mosaicPosition: {x: 3954, y: 2016}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_5
     isGroup: 0
@@ -1802,6 +1830,9 @@ ScriptedImporter:
     spriteID: 27d45d2ff439641299ba82d22a1d5ef1
     layerID: 313
     mosaicPosition: {x: 3954, y: 1770}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_6
     isGroup: 0
@@ -1809,6 +1840,9 @@ ScriptedImporter:
     spriteID: 6b65119c18dd347c1bcc25f9ff7454ff
     layerID: 312
     mosaicPosition: {x: 3954, y: 1693}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_7
     isGroup: 0
@@ -1816,6 +1850,9 @@ ScriptedImporter:
     spriteID: ef7ba1eba943642d5beda1790c502284
     layerID: 311
     mosaicPosition: {x: 3954, y: 1937}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_8
     isGroup: 0
@@ -1823,6 +1860,9 @@ ScriptedImporter:
     spriteID: 2d8f3bc1b369143d7896f675f1847b49
     layerID: 310
     mosaicPosition: {x: 3954, y: 1849}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_9
     isGroup: 0
@@ -1830,6 +1870,9 @@ ScriptedImporter:
     spriteID: 18b1cbe54437c46b5b556a42f2439787
     layerID: 309
     mosaicPosition: {x: 589, y: 2635}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_10
     isGroup: 0
@@ -1837,6 +1880,9 @@ ScriptedImporter:
     spriteID: c724ee17e331e49568190cfc8efd589d
     layerID: 308
     mosaicPosition: {x: 3954, y: 1451}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_11
     isGroup: 0
@@ -1844,6 +1890,9 @@ ScriptedImporter:
     spriteID: ac0adddf9caad4c91987879287d3a32e
     layerID: 307
     mosaicPosition: {x: 494, y: 2635}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_12
     isGroup: 0
@@ -1851,6 +1900,9 @@ ScriptedImporter:
     spriteID: da9662aaede514a2d9e51e0f643686d4
     layerID: 306
     mosaicPosition: {x: 4010, y: 2468}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_13
     isGroup: 0
@@ -1858,6 +1910,9 @@ ScriptedImporter:
     spriteID: 240feb34d08ed44a7b5183b1c80a54b4
     layerID: 305
     mosaicPosition: {x: 3954, y: 1614}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_14
     isGroup: 0
@@ -1865,6 +1920,9 @@ ScriptedImporter:
     spriteID: dfc7af84447ae4e3d9ade556168ab96c
     layerID: 304
     mosaicPosition: {x: 4016, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_15
     isGroup: 0
@@ -1872,6 +1930,9 @@ ScriptedImporter:
     spriteID: 69d97755b700c4a9dbdbe5ad005bb928
     layerID: 303
     mosaicPosition: {x: 3954, y: 1532}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_16
     isGroup: 0
@@ -1879,6 +1940,9 @@ ScriptedImporter:
     spriteID: 1232b6b431cad41c7b85b7b321e6cc19
     layerID: 300
     mosaicPosition: {x: 3852, y: 1747}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_17
     isGroup: 0
@@ -1886,6 +1950,9 @@ ScriptedImporter:
     spriteID: 11975af219a854b5ca96a92d44ff16c0
     layerID: 299
     mosaicPosition: {x: 3954, y: 1358}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_18
     isGroup: 0
@@ -1893,6 +1960,9 @@ ScriptedImporter:
     spriteID: b5b8772970b134b87ad59d869726d211
     layerID: 298
     mosaicPosition: {x: 3852, y: 1845}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_19
     isGroup: 0
@@ -1900,6 +1970,9 @@ ScriptedImporter:
     spriteID: a811da6d33ec44fd2b9223f2a56ff46b
     layerID: 297
     mosaicPosition: {x: 3852, y: 1556}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_20
     isGroup: 0
@@ -1907,6 +1980,9 @@ ScriptedImporter:
     spriteID: 5074962e8f30d4c6eb3939639217ae42
     layerID: 296
     mosaicPosition: {x: 3852, y: 2038}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_21
     isGroup: 0
@@ -1914,6 +1990,9 @@ ScriptedImporter:
     spriteID: 6af33a88269bb42b2a0114b756b59dc7
     layerID: 295
     mosaicPosition: {x: 3977, y: 1052}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_22
     isGroup: 0
@@ -1921,6 +2000,9 @@ ScriptedImporter:
     spriteID: de8f35df89f3a4b7c95534f57570245e
     layerID: 294
     mosaicPosition: {x: 3852, y: 1943}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_23
     isGroup: 0
@@ -1928,6 +2010,9 @@ ScriptedImporter:
     spriteID: 8c40186be26b94d919901bd1c7c3908b
     layerID: 293
     mosaicPosition: {x: 3954, y: 1269}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_24
     isGroup: 0
@@ -1935,6 +2020,9 @@ ScriptedImporter:
     spriteID: b84132e8285524a13b23dadb8cfd6bd1
     layerID: 292
     mosaicPosition: {x: 3852, y: 1652}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_25
     isGroup: 0
@@ -1942,6 +2030,9 @@ ScriptedImporter:
     spriteID: 0a0cb79dbb0914895b1338bf617b5d91
     layerID: 291
     mosaicPosition: {x: 3852, y: 1463}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_26
     isGroup: 0
@@ -1949,6 +2040,9 @@ ScriptedImporter:
     spriteID: 5b642a7dd4f5747969c42a27f26ec106
     layerID: 290
     mosaicPosition: {x: 3852, y: 1364}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_27
     isGroup: 0
@@ -1956,6 +2050,9 @@ ScriptedImporter:
     spriteID: 449bc1fe81f1c40509d69f207e18ac1e
     layerID: 289
     mosaicPosition: {x: 3982, y: 540}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_28
     isGroup: 0
@@ -1963,6 +2060,9 @@ ScriptedImporter:
     spriteID: 46bac74c6c0904b94a1f2449f754135f
     layerID: 288
     mosaicPosition: {x: 3981, y: 669}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_29
     isGroup: 0
@@ -1970,6 +2070,9 @@ ScriptedImporter:
     spriteID: 4e14a3a774d394834a426d7f1f3c40d0
     layerID: 287
     mosaicPosition: {x: 3980, y: 797}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_30
     isGroup: 0
@@ -1977,6 +2080,9 @@ ScriptedImporter:
     spriteID: 322fb343243d042d6989c3c76e18396d
     layerID: 286
     mosaicPosition: {x: 3852, y: 1269}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_31
     isGroup: 0
@@ -1984,6 +2090,9 @@ ScriptedImporter:
     spriteID: 947a4258717304f869ec13136facc68a
     layerID: 285
     mosaicPosition: {x: 4000, y: 166}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_32
     isGroup: 0
@@ -1991,6 +2100,9 @@ ScriptedImporter:
     spriteID: 96aad027c14be45018bf1b29ec6a8a3d
     layerID: 268
     mosaicPosition: {x: 3204, y: 2468}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_33
     isGroup: 0
@@ -1998,6 +2110,9 @@ ScriptedImporter:
     spriteID: 32cf2985bc26446e1b98b32b84488a29
     layerID: 267
     mosaicPosition: {x: 2812, y: 2468}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_34
     isGroup: 0
@@ -2005,6 +2120,9 @@ ScriptedImporter:
     spriteID: c7f8aaab8f5e8403d9e7371dc3cd7369
     layerID: 266
     mosaicPosition: {x: 3132, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_35
     isGroup: 0
@@ -2012,6 +2130,9 @@ ScriptedImporter:
     spriteID: 39139f6a2bae942379530b00f08ab73c
     layerID: 265
     mosaicPosition: {x: 3852, y: 1052}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_36
     isGroup: 0
@@ -2019,6 +2140,9 @@ ScriptedImporter:
     spriteID: 71a18698c019847dd881f1a307cf925f
     layerID: 264
     mosaicPosition: {x: 3852, y: 925}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_37
     isGroup: 0
@@ -2026,6 +2150,9 @@ ScriptedImporter:
     spriteID: d606e3d2f97e8483798ed5cd3728ddf0
     layerID: 263
     mosaicPosition: {x: 3852, y: 540}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_38
     isGroup: 0
@@ -2033,6 +2160,9 @@ ScriptedImporter:
     spriteID: 369ab13131afc4524b1648595b218968
     layerID: 262
     mosaicPosition: {x: 3852, y: 797}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_39
     isGroup: 0
@@ -2040,6 +2170,9 @@ ScriptedImporter:
     spriteID: d472771bfd9734cc9a409e8383117fa3
     layerID: 261
     mosaicPosition: {x: 3852, y: 669}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_40
     isGroup: 0
@@ -2047,6 +2180,9 @@ ScriptedImporter:
     spriteID: 93fe228e521a741818cc26da7ea44c8a
     layerID: 260
     mosaicPosition: {x: 3852, y: 303}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_41
     isGroup: 0
@@ -2054,6 +2190,9 @@ ScriptedImporter:
     spriteID: 6073e519553804f49a17be5af3715f6a
     layerID: 259
     mosaicPosition: {x: 3955, y: 2321}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_42
     isGroup: 0
@@ -2061,6 +2200,9 @@ ScriptedImporter:
     spriteID: 4375bc250431a46299af1a831f9038b1
     layerID: 257
     mosaicPosition: {x: 3541, y: 2321}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_43
     isGroup: 0
@@ -2068,6 +2210,9 @@ ScriptedImporter:
     spriteID: 1a4dd51ec18a547ad982f58b246e6f36
     layerID: 256
     mosaicPosition: {x: 3593, y: 2468}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Triangle Down
     spriteName: Triangle Down
     isGroup: 0
@@ -2075,6 +2220,9 @@ ScriptedImporter:
     spriteID: 25abab3e0a1624b11acc88cc638353ba
     layerID: 302
     mosaicPosition: {x: 3942, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_44
     isGroup: 0
@@ -2082,6 +2230,9 @@ ScriptedImporter:
     spriteID: b0dc44bb483e947f98acf0cbb4ed9e30
     layerID: 301
     mosaicPosition: {x: 1984, y: 2299}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_45
     isGroup: 0
@@ -2089,6 +2240,9 @@ ScriptedImporter:
     spriteID: 508beb7b4dc4d463dacdc89859301205
     layerID: 255
     mosaicPosition: {x: 1589, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_46
     isGroup: 0
@@ -2096,6 +2250,9 @@ ScriptedImporter:
     spriteID: 4dea7c98b728a483e94ac6a32ac6d0cf
     layerID: 254
     mosaicPosition: {x: 2331, y: 2342}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_47
     isGroup: 0
@@ -2103,6 +2260,9 @@ ScriptedImporter:
     spriteID: 533183e4f9a35452bbbf86998a3cf273
     layerID: 252
     mosaicPosition: {x: 1998, y: 2468}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object copy
     spriteName: Vector Smart Object copy
     isGroup: 0
@@ -2110,6 +2270,9 @@ ScriptedImporter:
     spriteID: 53a82eb21a224404689ebb0efdefa018
     layerID: 251
     mosaicPosition: {x: 404, y: 2468}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_48
     isGroup: 0
@@ -2117,6 +2280,9 @@ ScriptedImporter:
     spriteID: ffd7412d6dbf745eeb83089072d28247
     layerID: 250
     mosaicPosition: {x: 3132, y: 2321}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_49
     isGroup: 0
@@ -2124,6 +2290,9 @@ ScriptedImporter:
     spriteID: 6f3bef425463041b6a26f1f84b501972
     layerID: 249
     mosaicPosition: {x: 2413, y: 2468}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_50
     isGroup: 0
@@ -2131,6 +2300,9 @@ ScriptedImporter:
     spriteID: 19beacce0bf0e41409c4aebed5bf3318
     layerID: 248
     mosaicPosition: {x: 4, y: 2603}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_51
     isGroup: 0
@@ -2138,6 +2310,9 @@ ScriptedImporter:
     spriteID: ee2f186834bc04698b62434176ceb031
     layerID: 246
     mosaicPosition: {x: 1198, y: 2468}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_52
     isGroup: 0
@@ -2145,6 +2320,9 @@ ScriptedImporter:
     spriteID: 2c4ac576cae0e4efc9ce29b13550d586
     layerID: 245
     mosaicPosition: {x: 802, y: 2468}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_53
     isGroup: 0
@@ -2152,6 +2330,9 @@ ScriptedImporter:
     spriteID: f23556e4fd6374fd88067984daad79ea
     layerID: 244
     mosaicPosition: {x: 1589, y: 2299}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_54
     isGroup: 0
@@ -2159,6 +2340,9 @@ ScriptedImporter:
     spriteID: 6dcd8ec0b123f47d18e9df2f69ccd5f5
     layerID: 243
     mosaicPosition: {x: 1598, y: 2468}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_55
     isGroup: 0
@@ -2166,6 +2350,9 @@ ScriptedImporter:
     spriteID: e401db5f46fe342bc903676674ac4c61
     layerID: 240
     mosaicPosition: {x: 2331, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_56
     isGroup: 0
@@ -2173,6 +2360,9 @@ ScriptedImporter:
     spriteID: a39245b3e05684ea2808c70ecd9c5b9b
     layerID: 239
     mosaicPosition: {x: 2731, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_57
     isGroup: 0
@@ -2180,6 +2370,9 @@ ScriptedImporter:
     spriteID: 6d55b4ff22fa04ae7b5b69db950f7898
     layerID: 238
     mosaicPosition: {x: 2731, y: 2326}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_58
     isGroup: 0
@@ -2187,6 +2380,9 @@ ScriptedImporter:
     spriteID: 14cef745de7404ce29f8fd99906e296d
     layerID: 237
     mosaicPosition: {x: 3541, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Vector Smart Object
     spriteName: Vector Smart Object_59
     isGroup: 0
@@ -2194,6 +2390,9 @@ ScriptedImporter:
     spriteID: 196756e4fd0b24e21a7a38698e5de5c6
     layerID: 236
     mosaicPosition: {x: 4, y: 2468}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: PauseButton
     spriteName: PauseButton
     isGroup: 0
@@ -2201,6 +2400,9 @@ ScriptedImporter:
     spriteID: fce5e9892d9f6415db41c0704e72dd88
     layerID: 211
     mosaicPosition: {x: 3980, y: 925}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: IconHeart
     spriteName: IconHeart
     isGroup: 0
@@ -2208,6 +2410,9 @@ ScriptedImporter:
     spriteID: d3208616530ed4ae293ee9885f47da83
     layerID: 196
     mosaicPosition: {x: 4016, y: 86}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: RoundedRectangle
     spriteName: RoundedRectangle
     isGroup: 0
@@ -2215,6 +2420,9 @@ ScriptedImporter:
     spriteID: 3c28556439a5b4337b4d7f8126873959
     layerID: 195
     mosaicPosition: {x: 399, y: 2603}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: IconCoin
     spriteName: IconCoin
     isGroup: 0
@@ -2222,6 +2430,9 @@ ScriptedImporter:
     spriteID: 345c7eb37c40f49fb8816214a02c0e5f
     layerID: 197
     mosaicPosition: {x: 4035, y: 1693}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: IconKey
     spriteName: IconKey
     isGroup: 0
@@ -2229,6 +2440,9 @@ ScriptedImporter:
     spriteID: 4287dd03959e847c1bf05b4f2edf6d24
     layerID: 215
     mosaicPosition: {x: 2164, y: 2299}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Triangle
     spriteName: Triangle
     isGroup: 0
@@ -2236,6 +2450,9 @@ ScriptedImporter:
     spriteID: 83384d2f999ca42ac960160bc20ed1ee
     layerID: 221
     mosaicPosition: {x: 3852, y: 1177}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Fader
     spriteName: Fader
     isGroup: 0
@@ -2243,6 +2460,9 @@ ScriptedImporter:
     spriteID: 558031646795e4a11ac636a6fd2285fa
     layerID: 223
     mosaicPosition: {x: 944, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: IconE
     spriteName: IconE
     isGroup: 0
@@ -2250,6 +2470,9 @@ ScriptedImporter:
     spriteID: b0afa22360d164f92944aa6d3b72a85b
     layerID: 231
     mosaicPosition: {x: 3852, y: 166}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: IconE
     spriteName: IconE_1
     isGroup: 0
@@ -2257,6 +2480,9 @@ ScriptedImporter:
     spriteID: f554ebdb5d34748a38190828b9032fe0
     layerID: 222
     mosaicPosition: {x: 3987, y: 303}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: IconBlank
     spriteName: IconBlank
     isGroup: 0
@@ -2264,6 +2490,9 @@ ScriptedImporter:
     spriteID: b84a550951d6841e5b267d1a242f6309
     layerID: 216
     mosaicPosition: {x: 3852, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Controls
     spriteName: Controls
     isGroup: 0
@@ -2271,6 +2500,9 @@ ScriptedImporter:
     spriteID: 1dd10efab2e9d43c291f2fbb5e0f3eab
     layerID: 141
     mosaicPosition: {x: 4, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: BGReference
     spriteName: BGReference
     isGroup: 0
@@ -2278,6 +2510,9 @@ ScriptedImporter:
     spriteID: 4d8c0416bf0734837b53c7527f3515e0
     layerID: 14
     mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: PauseOverlay
     spriteName: PauseOverlay
     isGroup: 0
@@ -2285,13 +2520,14 @@ ScriptedImporter:
     spriteID: 4445cec380e0d4e99a354a1fae7e2e0b
     layerID: 167
     mosaicPosition: {x: 3852, y: 438}
-  characterData:
-    bones: []
-    parts: []
-    dimension: {x: 0, y: 0}
-    characterGroups: []
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
   generateGOHierarchy: 0
   textureAssetName: GUI Texture
   prefabAssetName: GUI Prefab
   spriteLibAssetName: GUI Sprite Lib
+  skeletonAssetName: 
   secondarySpriteTextures: []
