@@ -1,0 +1,677 @@
+fileFormatVersion: 2
+guid: ad726602431a149199c583ef20d9adc7
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 0
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 300
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: Foliage_Atlas_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 7680
+      height: 2160
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Whole Circle@2x
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4433
+      y: 2843
+      width: 114
+      height: 115
+    spriteID: f29bf174405e44c0c9105ae8e7652343
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -807, y: 1877}
+  - name: Top Small@2x
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2194
+      y: 2870
+      width: 223
+      height: 114
+    spriteID: 9e11633ec0c7f4d038d74633506b7308
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3095, y: 1753}
+  - name: Top Long@2x
+    originalName: 
+    pivot: {x: 0.60540533, y: 0.4999989}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2534
+      y: 2897
+      width: 1113
+      height: 223
+    spriteID: ef214ed6c106d4b69bce5ffbe9ca02ee
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1771, y: 2745}
+  - name: Top large@2x
+    originalName: 
+    pivot: {x: 0.6264707, y: 0.84307617}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2534
+      y: 2172
+      width: 1167
+      height: 717
+    spriteID: 610ed495da9a94947ab108deda0fa090
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2994, y: 2000}
+  - name: Half-Circle@2x
+    originalName: 
+    pivot: {x: 0.50511634, y: 0.98339844}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2194
+      y: 2992
+      width: 115
+      height: 56
+    spriteID: 072a2a6fd83624fc99ab1401a36c799e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3193, y: 1661}
+  - name: Corner Small@2x
+    originalName: 
+    pivot: {x: 0.69196177, y: 0.48318034}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4598
+      y: 2855
+      width: 552
+      height: 225
+    spriteID: f6c63f063ec8c4f1eaf640c2db79c5ef
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1079, y: 1860}
+  - name: Corner Medium@2x
+    originalName: 
+    pivot: {x: 0.62973505, y: 0.32458016}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 6322
+      y: 2172
+      width: 608
+      height: 331
+    spriteID: cfad7b98208ec42ea9abceb5abb28288
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 628, y: 898}
+  - name: Corner Long@2x
+    originalName: 
+    pivot: {x: 0.82619375, y: 0.46726888}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1249
+      y: 2870
+      width: 937
+      height: 225
+    spriteID: 31dc3fc24cd464d99a3f111ed7ea9326
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -4274, y: 1136}
+  - name: Corner Long Hanging@2x
+    originalName: 
+    pivot: {x: 0.68611664, y: 0.8137245}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3290
+      width: 554
+      height: 1209
+    spriteID: 0091c492177024726a33fdd74e81d0e4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -4514, y: 2543}
+  - name: Corner Large@2x
+    originalName: 
+    pivot: {x: 0.5343553, y: 0.32901773}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3709
+      y: 2843
+      width: 716
+      height: 332
+    spriteID: e936f53b359bd41d78c7ce3caed9350e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 228, y: 1955}
+  - name: Corner Large Hanging@2x
+    originalName: 
+    pivot: {x: 0.61812806, y: 0.66267717}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3709
+      y: 2172
+      width: 881
+      height: 663
+    spriteID: 12d54576161644a1ba7ee3a6c7dffd00
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 251, y: 862}
+  - name: White Fronds@2x
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2172
+      width: 1237
+      height: 1110
+    spriteID: fe4a5ed2f9c5d4732b6b910bca38a6d6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2017, y: 2012}
+  - name: Tileable Grass@2x
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1249
+      y: 2172
+      width: 1277
+      height: 690
+    spriteID: 3fdbcf6ebf4c045bc862b4536f0acd52
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 822, y: 2006}
+  - name: Patch 3@2x
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5782
+      y: 2172
+      width: 532
+      height: 637
+    spriteID: b6911010396e9409c9cf5be0ad71b569
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4448, y: 812}
+  - name: Patch 4@2x
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5191
+      y: 2172
+      width: 583
+      height: 633
+    spriteID: 2dd80dd9cdeef432c9bf307b458b1044
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2589, y: 770}
+  - name: Patch 2@2x
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7692
+      y: 4
+      width: 337
+      height: 648
+    spriteID: e68368df7ed3140d1bd8c3fb53a93961
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 5629, y: -1356}
+  - name: Patch 1@2x
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4598
+      y: 2172
+      width: 585
+      height: 675
+    spriteID: 56ee85bc4eb24434bb010ea0c3a72818
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3983, y: 812}
+  - name: Background
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 7680
+      height: 2160
+    spriteID: 44e4a227798df4e6eb94354879dff3c1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 7680, y: 2160}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 8192
+  textureActualHeight: 8192
+  spritePackingTag: 
+  resliceFromLayer: 1
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Whole Circle@2x
+    spriteName: Whole Circle@2x
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f29bf174405e44c0c9105ae8e7652343
+    layerID: 25
+    mosaicPosition: {x: 4433, y: 2843}
+  - name: Top Small@2x
+    spriteName: Top Small@2x
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9e11633ec0c7f4d038d74633506b7308
+    layerID: 24
+    mosaicPosition: {x: 2194, y: 2870}
+  - name: Top Long@2x
+    spriteName: Top Long@2x
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ef214ed6c106d4b69bce5ffbe9ca02ee
+    layerID: 23
+    mosaicPosition: {x: 2534, y: 2897}
+  - name: Top large@2x
+    spriteName: Top large@2x
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 610ed495da9a94947ab108deda0fa090
+    layerID: 22
+    mosaicPosition: {x: 2534, y: 2172}
+  - name: Half-Circle@2x
+    spriteName: Half-Circle@2x
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 072a2a6fd83624fc99ab1401a36c799e
+    layerID: 21
+    mosaicPosition: {x: 2194, y: 2992}
+  - name: Corner Small@2x
+    spriteName: Corner Small@2x
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f6c63f063ec8c4f1eaf640c2db79c5ef
+    layerID: 20
+    mosaicPosition: {x: 4598, y: 2855}
+  - name: Corner Medium@2x
+    spriteName: Corner Medium@2x
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cfad7b98208ec42ea9abceb5abb28288
+    layerID: 19
+    mosaicPosition: {x: 6322, y: 2172}
+  - name: Corner Long@2x
+    spriteName: Corner Long@2x
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 31dc3fc24cd464d99a3f111ed7ea9326
+    layerID: 18
+    mosaicPosition: {x: 1249, y: 2870}
+  - name: Corner Long Hanging@2x
+    spriteName: Corner Long Hanging@2x
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0091c492177024726a33fdd74e81d0e4
+    layerID: 17
+    mosaicPosition: {x: 4, y: 3290}
+  - name: Corner Large@2x
+    spriteName: Corner Large@2x
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e936f53b359bd41d78c7ce3caed9350e
+    layerID: 16
+    mosaicPosition: {x: 3709, y: 2843}
+  - name: Corner Large Hanging@2x
+    spriteName: Corner Large Hanging@2x
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 12d54576161644a1ba7ee3a6c7dffd00
+    layerID: 15
+    mosaicPosition: {x: 3709, y: 2172}
+  - name: White Fronds@2x
+    spriteName: White Fronds@2x
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fe4a5ed2f9c5d4732b6b910bca38a6d6
+    layerID: 8
+    mosaicPosition: {x: 4, y: 2172}
+  - name: Tileable Grass@2x
+    spriteName: Tileable Grass@2x
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3fdbcf6ebf4c045bc862b4536f0acd52
+    layerID: 7
+    mosaicPosition: {x: 1249, y: 2172}
+  - name: Patch 3@2x
+    spriteName: Patch 3@2x
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b6911010396e9409c9cf5be0ad71b569
+    layerID: 5
+    mosaicPosition: {x: 5782, y: 2172}
+  - name: Patch 4@2x
+    spriteName: Patch 4@2x
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2dd80dd9cdeef432c9bf307b458b1044
+    layerID: 6
+    mosaicPosition: {x: 5191, y: 2172}
+  - name: Patch 2@2x
+    spriteName: Patch 2@2x
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e68368df7ed3140d1bd8c3fb53a93961
+    layerID: 4
+    mosaicPosition: {x: 7692, y: 4}
+  - name: Patch 1@2x
+    spriteName: Patch 1@2x
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 56ee85bc4eb24434bb010ea0c3a72818
+    layerID: 3
+    mosaicPosition: {x: 4598, y: 2172}
+  - name: Background
+    spriteName: Background
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 44e4a227798df4e6eb94354879dff3c1
+    layerID: 1
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: Foliage_Atlas Texture
+  prefabAssetName: Foliage_Atlas Prefab
+  spriteLibAssetName: Foliage_Atlas Sprite Lib
+  secondarySpriteTextures: []

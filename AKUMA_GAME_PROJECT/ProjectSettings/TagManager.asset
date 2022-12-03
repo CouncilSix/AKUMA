@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Terrain
+  - Prop
+  - Collectible
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Layer-6
+    uniqueID: 1872955119
+    locked: 0
+  - name: Layer-5
+    uniqueID: 610010427
+    locked: 0
+  - name: Layer-4
+    uniqueID: 2999387649
+    locked: 0
+  - name: Layer-3
+    uniqueID: 3481839501
+    locked: 0
+  - name: Layer-2
+    uniqueID: 2419124897
+    locked: 0
+  - name: Layer-1
+    uniqueID: 217229735
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer 0
+    uniqueID: 1357110127
+    locked: 0
+  - name: Layer+1
+    uniqueID: 2486609263
+    locked: 0
+  - name: Layer+2
+    uniqueID: 338918125
+    locked: 0
+  - name: Layer+3
+    uniqueID: 552838577
+    locked: 0
+  - name: Layer+4
+    uniqueID: 278220791
+    locked: 0
+  - name: Layer+5
+    uniqueID: 3301799191
+    locked: 0
+  - name: Layer+6
+    uniqueID: 159827041
+    locked: 0
